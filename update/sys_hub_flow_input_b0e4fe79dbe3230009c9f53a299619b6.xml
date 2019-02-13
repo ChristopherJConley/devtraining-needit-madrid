@@ -38,7 +38,7 @@
         <label>Table Name</label>
         <mandatory>false</mandatory>
         <max_length>200</max_length>
-        <model display_value="NeedIt Fulfillment">fce4fe79dbe3230009c9f53a29961985</model>
+        <model display_value="">fce4fe79dbe3230009c9f53a29961985</model>
         <model_id>fce4fe79dbe3230009c9f53a29961985</model_id>
         <model_table>sys_hub_flow_snapshot</model_table>
         <name>var__m_sys_hub_flow_input_fce4fe79dbe3230009c9f53a29961985</name>

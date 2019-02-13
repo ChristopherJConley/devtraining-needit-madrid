@@ -7,7 +7,7 @@
         <comment>Set state to awaiting approval and assign to Beth Anglin</comment>
         <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
-        <flow display_value="NeedIt Fulfillment">fce4fe79dbe3230009c9f53a29961985</flow>
+        <flow display_value="">fce4fe79dbe3230009c9f53a29961985</flow>
         <order>1</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>

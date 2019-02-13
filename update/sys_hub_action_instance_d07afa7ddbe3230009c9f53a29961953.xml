@@ -6,7 +6,7 @@
         <comment/>
         <compiled_snapshot>5bc1bcc6531003003bf1d9109ec587d4</compiled_snapshot>
         <display_text/>
-        <flow display_value="NeedIt Fulfillment">fce4fe79dbe3230009c9f53a29961985</flow>
+        <flow display_value="">fce4fe79dbe3230009c9f53a29961985</flow>
         <order>2</order>
         <parent_ui_id/>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
