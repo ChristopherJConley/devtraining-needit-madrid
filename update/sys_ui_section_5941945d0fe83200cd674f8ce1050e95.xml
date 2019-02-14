@@ -228,7 +228,7 @@
             <form_field/>
             <height>300</height>
             <label>Active NeedIt Requests by Type</label>
-            <report display_value="Active NeedIt Requests by Type">c59fd8a6db63230009c9f53a29961902</report>
+            <report display_value="">c59fd8a6db63230009c9f53a29961902</report>
             <report_field/>
             <report_qual/>
             <section/>
